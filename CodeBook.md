@@ -1,7 +1,7 @@
-# 03_Getting and Cleaning Data
 # Data Science Specialization by John Hopkins University
+# 03_Getting and Cleaning Data
 
-##Author: Shubhendu Dash
+## Author: Shubhendu Dash
 
 ### Description
 
