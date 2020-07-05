@@ -1,7 +1,7 @@
-# GettingAndCleaningDataProject
-Course Project for the Course Getting and Cleaning Data
+# Data Science Specialization by John Hopkins University
 
-## Data Science Specialization by John Hopkins University
+## GettingAndCleaningDataProject
+Course Project for the Course Getting and Cleaning Data
 
 Author: Shubhendu Dash <br />
 
